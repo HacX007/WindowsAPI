@@ -1,0 +1,4 @@
+﻿D:\mysoftware\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(03.API数据类型和API函数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mian.c
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 WinMain，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\code\C\WindowsAPI\x64\Debug\03.API数据类型和API函数(GUI).exe : fatal error LNK1120: 1 个无法解析的外部命令

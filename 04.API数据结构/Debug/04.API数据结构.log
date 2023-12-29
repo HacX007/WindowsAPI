@@ -1,0 +1,4 @@
+﻿  main.c
+D:\code\C\WindowsAPI\04.API数据结构\main.c(10,2): warning C4013: “FileTimeToSystemFileTime”未定义；假设外部返回 int
+main.obj : error LNK2019: 无法解析的外部符号 _FileTimeToSystemFileTime，函数 _ShowFileTime 中引用了该符号
+D:\code\C\WindowsAPI\Debug\04.API数据结构.exe : fatal error LNK1120: 1 个无法解析的外部命令

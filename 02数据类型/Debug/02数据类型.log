@@ -1,0 +1,4 @@
+﻿  mian.c
+D:\code\C\WindowsAPI\02数据类型\mian.c(6,5): warning C4007: “WinMain”: 必须是“__stdcall”
+D:\code\C\WindowsAPI\02数据类型\mian.c(29,2): warning C4133: “函数”: 从“LPSTR”到“LPCWSTR”的类型不兼容
+  02数据类型.vcxproj -> D:\code\C\WindowsAPI\Debug\02数据类型.exe

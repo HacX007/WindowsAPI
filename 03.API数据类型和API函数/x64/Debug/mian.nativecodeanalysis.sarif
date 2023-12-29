@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/code/c/windowsapi/03.api数据类型和api函数/mian.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d27a05b371892eb47db80b88d72391cd4aee777e1ce48075340aab296d87957c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/c/windowsapi/03.api数据类型和api函数/framework.h"
+          },
+          "hashes": {
+            "sha-256": "fadd01f34c01054fbf7ff16e98e37f09f22350e9edfb7a700e65cb3c1980d5ff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/c/windowsapi/03.api数据类型和api函数/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "22d5a70d062707e58c110067d71ae2476fc14dff3630079dfec0e771ac577a81"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/c/windowsapi/03.api数据类型和api函数/03.api数据类型和api函数.h"
+          },
+          "hashes": {
+            "sha-256": "c9ffd7114c78943d5359e1f1a638c507caaf6d72cac9296310fe051cd47b3177"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code/c/windowsapi/03.api数据类型和api函数/resource.h"
+          },
+          "hashes": {
+            "sha-256": "3a7ec8e809ff6f44944ab066301f721e8f879b726ab0f74e12bd9031878270b8"
+          }
+        }
+      ]
+    }
+  ]
+}
